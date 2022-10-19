@@ -1,1 +1,1 @@
-# masai_project_01
+This file is created for study purpose.
